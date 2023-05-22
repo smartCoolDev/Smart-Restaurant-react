@@ -1,11 +1,11 @@
-# Bentilzone Online Restaurant App
+# Smart Online Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)
 - Redux
 - TailwindCSS
 - Firebase
-## Live Demo 
+## You Can See 
 <a href = "https://zone-restaurant.vercel.app/" >DEMO HERE!<a/>
 ## Deployment Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/44598840-1a12-4b3d-a79f-a89d91d34db8/deploy-status)](https://app.netlify.com/sites/bzone-restaurant/deploys)
@@ -30,4 +30,7 @@
 ![image](https://user-images.githubusercontent.com/55560024/173251742-093dff58-558d-4b81-9339-0f147951e827.png)
 ![image](https://user-images.githubusercontent.com/55560024/173251746-cd564b82-ec57-43fe-800f-e36e7ad8e2a0.png)
 
-## Features 
+## Thank You!
+
+Thanks to <a href="https://github.com/smartCoDev0629">Kevin Inoue</a> for sharing this freebie!
+
